@@ -15,3 +15,4 @@ while True:
         break
 
 print(lista_nieposortowana)
+
